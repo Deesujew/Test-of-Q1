@@ -1,0 +1,15 @@
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/bin/Debug/net6.0/test
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/bin/Debug/net6.0/test.deps.json
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/bin/Debug/net6.0/test.dll
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/bin/Debug/net6.0/test.pdb
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.dll
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/refint/test.dll
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.pdb
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/Deesujew/Desktop/MidQ1/Test-of-Q1/test/obj/Debug/net6.0/ref/test.dll
